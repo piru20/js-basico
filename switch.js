@@ -1,4 +1,4 @@
-var numero = 1;
+var numero = 1; //genero una variable a validar con el condicional switch: y armo 3 case mas el default (para el caso que no cumpla con ninguno de los 3 case)
 
 switch (numero) {
     case 1:
