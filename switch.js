@@ -3,7 +3,7 @@ var numero = 1;
 switch (numero) {
     case 1:
         console.log("Soy uno!");
-        break;
+        break;//el break es necesario para que no siga validando los otros "case" 
     case 10:
         console.log("Soy un 10!");
         break;
