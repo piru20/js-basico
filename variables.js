@@ -16,6 +16,6 @@ var elementos = ["Computadora", "Celular"]; //con el = desiganamos un valor a la
 var persona = {
     nombre: "Diego"
     edad: 30
-} //generamos una variable tipo objeto, generamos un objeto gurdado en una variable
+} //generamos una variable tipo objeto, generamos un objeto guardado en una variable
 
 
